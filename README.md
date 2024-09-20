@@ -7,5 +7,6 @@
 -   打开并登录 Cloudflare
 -   进入 Workers & Pages，然后点击 Create
 -   选择 Pages，点击 Connect to git
--   如入本 Github 仓库地址
+-   输入本 Github 仓库地址
 -   点击 Save and Deploy
+-   解析独立域名
